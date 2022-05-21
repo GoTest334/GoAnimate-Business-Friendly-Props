@@ -1,4 +1,7 @@
 # GoAnimate-Business-Friendly-Props
+--THIS WILL BE UPDATED SOON---
+
+
 This allows you to use business friendly on pretty much any version of the GA legacy video maker! (wrapper) 
 
 Note: only props work for now. Characters and backgrounds don't work
