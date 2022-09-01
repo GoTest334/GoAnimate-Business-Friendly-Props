@@ -1,4 +1,7 @@
 # GoAnimate-Business-Friendly-Props
+
+Update 2022: This hasen't been touched in months. I may bring it back but its pointless because the latest version of wrapper has business friendly already
+
 --THIS WILL BE UPDATED SOON---
 
 
